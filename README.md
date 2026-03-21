@@ -1,16 +1,13 @@
-## Hi there 👋
+# Salut, moi c'est Rudy ! 🦊
 
-<!--
-**Rudy-Payet/Rudy-Payet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Étudiant en Licence 3 Informatique à l'Université de La Réunion🌋.
+Je me spécialise dans la **Cyber-sécurité** et la **Qualité Logicielle**.
 
-Here are some ideas to get you started:
+### 🛠️ Compétences techniques
+- **Qualité & Fiabilité :** Validation et Tests (Note: 20/20). Application rigoureuse des tests unitaires et de non-régression.
+- **Réseaux & Sécurité :** Architecture TCP/IP (Note: 17.7/20). Sensibilisation OWASP et suivi des recommandations de l'ANSSI.
+- **Développement :** Maîtrise de C, Python, Java.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Projets mis en avant
+- **[C-ImageLib](https://github.com/Rudy-Payet/C-Image-Processing-Library) :** Bibliothèque C de traitement d'image et **Stéganographie**. Un projet qui allie manipulation bas-niveau et sécurité.
+- **[Ligue 1 Data Analysis](https://github.com/Rudy-Payet/Ligue1-Data-Analysis) :** Analyse de données sportives avec Python et Matplotlib.
