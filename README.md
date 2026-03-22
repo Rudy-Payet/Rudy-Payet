@@ -24,6 +24,10 @@
 
 Bibliothèque C de traitement d'image et de stéganographie — manipulation bas-niveau, sécurité mémoire, dissimulation de données dans des pixels.
 
+### 🎵 [Spotify Playlist Automator](https://github.com/Rudy-Payet/Spotify-Playlist-Automator)
+
+Automate Python de création de playlists via l'API Spotify — gestion de l'authentification OAuth2, manipulation de données CSV et optimisation des requêtes par segmentation (batching).
+
 ### 📊 [Ligue 1 Data Analysis](https://github.com/Rudy-Payet/Ligue1-Data-Analysis)
 
 Analyse statistique et cartographique de la saison 2023-2024 du Championnat Français de Football avec Python, Pandas et Folium.
