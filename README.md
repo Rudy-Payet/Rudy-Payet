@@ -13,7 +13,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 - 🔒 **Sécurité** - Sensibilisation OWASP, recommandations ANSSI, stéganographie
-- 🧪 **Qualité logicielle** - Tests unitaires, non-régression (20/20 en "Validation et Test"²)
+- 🧪 **Qualité logicielle** - Tests unitaires, non-régression (20/20 en "Validation et Test")
 - 🌐 **Réseaux** - Architecture TCP/IP (17.7/20)
 
 ---
